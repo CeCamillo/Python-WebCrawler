@@ -1,37 +1,34 @@
 Titulo,Tamanho,Nmero de Quartos,Numero de Banheiros,Vagas de Garagem,Preco
-"Casa com 3 Quartos para Aluguel, 150m²",150 m²,3 Quartos,2 Banheiros,3 Vagas,R$ 2.720 /mês
-"Casa com 3 Quartos para Aluguel, 150m²",150 m²,3 Quartos,2 Banheiros,3 Vagas,R$ 2.720 /mês
-"Sobrado com 3 Quartos para Aluguel, 120m²",120 m²,3 Quartos,3 Banheiros,4 Vagas,R$ 950 /dia
-"Apartamento com 3 Quartos para Aluguel, 161m²",161 m²,3 Quartos,3 Banheiros,2 Vagas,R$ 4.500 /mês
-"Casa de condomínio com 6 Quartos para Aluguel, 400m²",400 m²,6 Quartos,7 Banheiros,7 Vagas,R$ 2.800 /dia
-"Apartamento com 3 Quartos para Aluguel, 120m²",120 m²,3 Quartos,2 Banheiros,2 Vagas,R$ 350 /dia
-"Casa de condomínio com 5 Quartos para Aluguel, 380m²",380 m²,5 Quartos,5 Banheiros,5 Vagas,R$ 5.000 /dia
-"Apartamento com Quarto para Aluguel, 72m²",72 m²,1 Quarto,1 Banheiro,1 Vaga,R$ 2.500 /mês
-Apartamento com Quarto para Venda/Aluguel 63m²,63 m²,1 Quarto,2 Banheiros,2 Vagas,R$ 3.500 /mês
-"Imóvel comercial para Aluguel, 150m²",150 m²,-- Quarto,2 Banheiros,20 Vagas,R$ 3.000 /mês
-"Apartamento com 2 Quartos para Aluguel, 201m²",201 m²,2 Quartos,3 Banheiros,1 Vaga,R$ 5.500 /mês
-"Casa com 5 Quartos para Aluguel, 700m²",700 m²,5 Quartos,3 Banheiros,10 Vagas,R$ 2.800 /dia
-"Apartamento com 3 Quartos para Aluguel, 163m²",163 m²,3 Quartos,3 Banheiros,1 Vaga,R$ 4.500 /mês
-Casa de condomínio com 5 Quartos para Venda/Aluguel 295m²,295 m²,5 Quartos,4 Banheiros,10 Vagas,R$ 800 /dia
-Casa de condomínio com 3 Quartos para Venda/Aluguel 200m²,200 m²,3 Quartos,5 Banheiros,2 Vagas,R$ 1.800 /dia
-"Apartamento com 3 Quartos para Aluguel, 130m²",130 m²,3 Quartos,2 Banheiros,4 Vagas,R$ 4.500 /mês
-Apartamento com 3 Quartos para Venda/Aluguel 110m²,110 m²,3 Quartos,3 Banheiros,2 Vagas,R$ 5.300 /mês
-"Galpão/Depósito/Armazém para Aluguel, 1182m²",1182 m²,-- Quarto,-- Banheiro,-- Vaga,R$ 20.000 /mês
-Casa com 5 Quartos para Venda/Aluguel 300m²,300 m²,5 Quartos,6 Banheiros,9 Vagas,R$ 8.000 /mês
-"Casa com 3 Quartos para Aluguel, 197m²",197 m²,3 Quartos,4 Banheiros,3 Vagas,R$ 7.600 /mês
-"Apartamento com 6 Quartos para Aluguel, 340m²",340 m²,6 Quartos,7 Banheiros,4 Vagas,R$ 3.500 /dia
-Casa de condomínio com 4 Quartos para Venda/Aluguel 160m²,160 m²,4 Quartos,3 Banheiros,4 Vagas,R$ 5.000 /mês
-Casa com 4 Quartos para Venda/Aluguel 400m²,400 m²,4 Quartos,2 Banheiros,6 Vagas,R$ 8.000 /mês
-"Casa de condomínio com 5 Quartos para Aluguel, 500m²",500 m²,5 Quartos,5 Banheiros,3 Vagas,R$ 30.000 /mês
-Casa com 5 Quartos para Venda/Aluguel 500m²,500 m²,5 Quartos,6 Banheiros,8 Vagas,R$ 15.000 /mês
-Casa com 5 Quartos à Venda/Aluguel 469m²,469 m²,5 Quartos,6 Banheiros,6 Vagas,R$ 4.000 /dia
-"Casa de condomínio com 4 Quartos para Aluguel, 250m²",250 m²,4 Quartos,4 Banheiros,4 Vagas,R$ 6.000 /mês
-Apartamento com 3 Quartos para Venda/Aluguel 220m²,220 m²,3 Quartos,3 Banheiros,2 Vagas,R$ 5.200 /mês
-"Prédio/Edificio inteiro para Aluguel, 500m²",500 m²,-- Quarto,10 Banheiros,20 Vagas,R$ 44.000 /mês
-Casa com 4 Quartos para Venda/Aluguel 500m²,500 m²,4 Quartos,4 Banheiros,7 Vagas,R$ 20.000 /mês
-"Prédio/Edificio inteiro para Aluguel, 500m²",500 m²,-- Quarto,10 Banheiros,20 Vagas,R$ 44.000 /mês
-"Prédio/Edificio inteiro para Aluguel, 500m²",500 m²,-- Quarto,10 Banheiros,20 Vagas,R$ 44.000 /mês
-"Prédio/Edificio inteiro para Aluguel, 500m²",500 m²,-- Quarto,10 Banheiros,20 Vagas,R$ 44.000 /mês
-"Apartamento com 4 Quartos para Aluguel, 110m²",110 m²,4 Quartos,3 Banheiros,2 Vagas,R$ 6.500 /mês
-"Ponto comercial/Loja/Box para Aluguel, 264m²",264 m²,-- Quarto,2 Banheiros,-- Vaga,R$ 11.000 /mês
-"Prédio/Edificio inteiro para Aluguel, 500m²",500 m²,-- Quarto,10 Banheiros,20 Vagas,R$ 44.000 /mês
+"Casa com 3 Quartos para Aluguel, 150m²",150 m²,3 Quartos,2 Banheiros,3 Vagas,2720
+"Sobrado com 3 Quartos para Aluguel, 120m²",120 m²,3 Quartos,3 Banheiros,4 Vagas,28500.0
+Apartamento com Quarto para Venda/Aluguel 63m²,63 m²,1 Quarto,2 Banheiros,2 Vagas,3500
+"Apartamento com 3 Quartos para Aluguel, 161m²",161 m²,3 Quartos,3 Banheiros,2 Vagas,4500
+"Apartamento com 3 Quartos para Aluguel, 120m²",120 m²,3 Quartos,2 Banheiros,2 Vagas,10500.0
+"Apartamento com Quarto para Aluguel, 72m²",72 m²,1 Quarto,1 Banheiro,1 Vaga,2500
+"Casa com 3 Quartos para Aluguel, 197m²",197 m²,3 Quartos,4 Banheiros,3 Vagas,7600
+"Apartamento com 2 Quartos para Aluguel, 201m²",201 m²,2 Quartos,3 Banheiros,1 Vaga,5500
+Casa de condomínio com 5 Quartos para Venda/Aluguel 295m²,295 m²,5 Quartos,4 Banheiros,10 Vagas,24000.0
+"Casa de condomínio com 6 Quartos para Aluguel, 400m²",400 m²,6 Quartos,7 Banheiros,7 Vagas,84000.0
+"Apartamento com 3 Quartos para Aluguel, 163m²",163 m²,3 Quartos,3 Banheiros,1 Vaga,4500
+"Casa de condomínio com 4 Quartos para Aluguel, 250m²",250 m²,4 Quartos,4 Banheiros,4 Vagas,6000
+Casa de condomínio com 3 Quartos para Venda/Aluguel 200m²,200 m²,3 Quartos,5 Banheiros,2 Vagas,54000.0
+"Casa com 5 Quartos para Aluguel, 700m²",700 m²,5 Quartos,3 Banheiros,10 Vagas,84000.0
+Casa de condomínio com 4 Quartos para Venda/Aluguel 160m²,160 m²,4 Quartos,3 Banheiros,4 Vagas,5000
+"Casa de condomínio com 5 Quartos para Aluguel, 500m²",500 m²,5 Quartos,5 Banheiros,3 Vagas,30000
+"Apartamento com 3 Quartos para Aluguel, 100m²",100 m²,3 Quartos,3 Banheiros,2 Vagas,30000.0
+"Casa de condomínio com 5 Quartos para Aluguel, 380m²",380 m²,5 Quartos,5 Banheiros,5 Vagas,150000.0
+Apartamento com 3 Quartos para Venda/Aluguel 110m²,110 m²,3 Quartos,3 Banheiros,2 Vagas,5300
+"Apartamento com 3 Quartos para Aluguel, 130m²",130 m²,3 Quartos,2 Banheiros,4 Vagas,4500
+"Casa de condomínio com 4 Quartos para Aluguel, 250m²",250 m²,4 Quartos,4 Banheiros,4 Vagas,6000
+Casa com 5 Quartos para Venda/Aluguel 500m²,500 m²,5 Quartos,6 Banheiros,8 Vagas,15000
+Casa com 4 Quartos para Venda/Aluguel 500m²,500 m²,4 Quartos,4 Banheiros,7 Vagas,20000
+"Casa com 5 Quartos para Aluguel, 500m²",500 m²,5 Quartos,6 Banheiros,4 Vagas,26000
+"Apartamento com 3 Quartos para Aluguel, 170m²",170 m²,3 Quartos,4 Banheiros,2 Vagas,10000
+"Casa com 4 Quartos para Aluguel, 210m²",210 m²,4 Quartos,6 Banheiros,4 Vagas,8500
+"Casa de condomínio com 5 Quartos para Aluguel, 400m²",400 m²,5 Quartos,5 Banheiros,15 Vagas,10500
+"Apartamento com 4 Quartos para Aluguel, 110m²",110 m²,4 Quartos,3 Banheiros,2 Vagas,6500
+Apartamento com 3 Quartos para Venda/Aluguel 220m²,220 m²,3 Quartos,3 Banheiros,2 Vagas,5200
+Casa com 4 Quartos para Venda/Aluguel 400m²,400 m²,4 Quartos,2 Banheiros,6 Vagas,8000
+Casa com 6 Quartos à Venda/Aluguel 576m²,576 m²,6 Quartos,6 Banheiros,50 Vagas,25000
+"Apartamento com 6 Quartos para Aluguel, 340m²",340 m²,6 Quartos,7 Banheiros,4 Vagas,105000.0
+Casa de condomínio com 4 Quartos para Venda/Aluguel 700m²,700 m²,4 Quartos,7 Banheiros,7 Vagas,18000
