@@ -39,7 +39,7 @@ for i in range(len(arr_titulos)):
 
     match = re.search(r'R\$\s?(\d+(?:[,.]\d+)?)(?:\s?/\s?Dia)?', preco_text)
     if match:
-        preco = match.group(1).replace('.', '')  # Remove the dot to make it an integer or float
+        preco = match.group(1).replace('.', '')
 
         if '/dia' in preco_text:
             preco = float(preco) * 30
